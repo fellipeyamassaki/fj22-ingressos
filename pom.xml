@@ -149,6 +149,11 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+    </build>	
 
+<developers>
+	<developer> 
+	<name>Fellipe Yamassaki</name>
+	<email>fellipe.yamassaki@gmail.com</email>
+</developer>
 </project>
